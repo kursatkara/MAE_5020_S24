@@ -1,2 +1,2 @@
-# MAE 5020 - Data Driven Aerospace Engineering
-# Spring 2024
+# MAE 5020 - Data-Driven Aerospace Engineering
+Spring 2024
