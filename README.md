@@ -6,6 +6,7 @@ The primary text for the course is listed below, along with other texts that we 
 Additional sources will include review papers and archival journal articles.
 
 • Brunton, Steven L., and J. Nathan Kutz. Data-driven science and engineering: Machine learning, dynamical systems, and control. Cambridge University Press, 2022.
+https://www.databookuw.com/
 
 • Le Clainche, Soledad, et al. "Improving aircraft performance using machine learning: a review." Aerospace Science and Technology (2023): 108354.
 
