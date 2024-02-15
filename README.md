@@ -16,7 +16,7 @@ https://www.databookuw.com/
 
 • Brunton, Steven L., et al. "Data-driven aerospace engineering: reframing the industry with machine learning." AIAA Journal 59.8 (2021): 2820-2847.
 
-• Rasheed, Adil, Omer San, and Trond Kvamsdal. "Digital twin: Values, challenges, and enablers from a modeling perspective." IEEE Access 8 (2020): 21980-22012.
+• Rasheed, Adil; San, Omer; and Kvamsdal, Trond. "Digital twin: Values, challenges, and enablers from a modeling perspective." IEEE Access 8 (2020): 21980-22012.
 
 • Brunton, Steven L., Bernd R. Noack, and Petros Koumoutsakos. "Machine learning for fluid mechanics." Annual Review of Fluid Mechanics 52 (2020): 477-508.
 
